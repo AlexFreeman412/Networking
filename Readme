@@ -3,4 +3,5 @@ TODO: Add description of game etc.
 Plugins used: 
  SteamVR
  VRTK-master
- _ImmerseumSDK (VR Simulator)
+ _ImmerseumSDK (VR Simulator) - testing only
+ OVR (Oculus SDK) - testing only
